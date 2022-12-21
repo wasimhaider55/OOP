@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1601909027 source:c:\users\hp\desktop\code blocks oops\26 my projects\main.cpp
+	<iostream>
+	<string>
+	"employee.h"
+
+1601908589 c:\users\hp\desktop\code blocks oops\26 my projects\employee.h
+	<iostream>
+	<string>
+

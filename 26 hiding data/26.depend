@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1601907432 source:c:\users\hp\desktop\code blocks oops\26\employ.cpp
+	"employ.h"
+
+1601907051 c:\users\hp\desktop\code blocks oops\26\employ.h
+	<iostream>
+	<string>
+
